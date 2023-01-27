@@ -312,6 +312,9 @@
     text-transform: capitalize;
   }
   
+  .is-pointer:hover{
+    cursor: pointer;
+  }
   
   
   /*---------------------*/

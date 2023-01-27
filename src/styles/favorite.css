@@ -1,0 +1,37 @@
+.ul-fav{
+    color: white;
+    margin-left: 20px;
+    font-size: 1.5rem;
+}
+
+.fav{
+    list-style: square;
+    
+}
+
+.fav-list{
+    margin-left: 40px;
+    justify-content:center;
+    
+}
+
+.pokemon-img{
+    width: 100px;
+    height: auto;
+    
+}
+
+.h1-fav{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+a{
+ text-decoration: none;
+}
+
+a:visited{
+    color: wheat;
+}

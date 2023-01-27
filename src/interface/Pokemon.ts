@@ -1,4 +1,5 @@
 export interface PokemonType {
+  id: number,
   name: string;
   sprites: {
     back_default: string;
